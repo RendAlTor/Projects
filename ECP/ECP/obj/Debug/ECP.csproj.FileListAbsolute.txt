@@ -1,0 +1,187 @@
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ECP.dll.config
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ECP.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ECP.pdb
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Antlr3.Runtime.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\EntityFramework.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\EntityFramework.SqlServer.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Google.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Newtonsoft.Json.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Owin.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\System.Web.Optimization.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\System.Web.Providers.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\WebGrease.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\System.Web.Optimization.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Antlr3.Runtime.pdb
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Newtonsoft.Json.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\EntityFramework.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\EntityFramework.SqlServer.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\System.Web.Providers.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Google.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\System.Web.Optimization.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\EntityFramework.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.Owin.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\obj\Debug\ECP.csprojResolveAssemblyReference.cache
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\obj\Debug\ECP.dll
+c:\users\клерфе\documents\visual studio 2013\Projects\ECP\ECP\obj\Debug\ECP.pdb
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ECP.dll.config
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ECP.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ECP.pdb
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Newtonsoft.Json.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\System.Web.Optimization.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Antlr3.Runtime.pdb
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\EntityFramework.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\EntityFramework.SqlServer.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\System.Web.Providers.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\EntityFramework.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\obj\Debug\ECP.csprojResolveAssemblyReference.cache
+C:\Users\Клерфе\Desktop\ECP\ECP\obj\Debug\ECP.dll
+C:\Users\Клерфе\Desktop\ECP\ECP\obj\Debug\ECP.pdb
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ECP.dll.config
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ECP.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ECP.pdb
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\System.Web.Optimization.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Antlr3.Runtime.pdb
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Newtonsoft.Json.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\EntityFramework.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\EntityFramework.SqlServer.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\System.Web.Providers.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\EntityFramework.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\obj\Debug\ECP.csprojResolveAssemblyReference.cache
+C:\Users\dima9_000\Desktop\ECP\ECP\obj\Debug\ECP.dll
+C:\Users\dima9_000\Desktop\ECP\ECP\obj\Debug\ECP.pdb
+E:\GitRepository\Projects\ECP\ECP\bin\ECP.dll.config
+E:\GitRepository\Projects\ECP\ECP\bin\ECP.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ECP.pdb
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Web.Infrastructure.xml
+E:\GitRepository\Projects\ECP\ECP\bin\System.Web.Optimization.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Antlr3.Runtime.pdb
+E:\GitRepository\Projects\ECP\ECP\bin\Newtonsoft.Json.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\GitRepository\Projects\ECP\ECP\bin\EntityFramework.xml
+E:\GitRepository\Projects\ECP\ECP\bin\EntityFramework.SqlServer.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitRepository\Projects\ECP\ECP\bin\System.Web.Providers.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Security.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Google.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitRepository\Projects\ECP\ECP\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitRepository\Projects\ECP\ECP\bin\ru\System.Web.Optimization.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\EntityFramework.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.Owin.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\GitRepository\Projects\ECP\ECP\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\GitRepository\Projects\ECP\ECP\obj\Debug\ECP.csprojResolveAssemblyReference.cache
+E:\GitRepository\Projects\ECP\ECP\obj\Debug\ECP.dll
+E:\GitRepository\Projects\ECP\ECP\obj\Debug\ECP.pdb
